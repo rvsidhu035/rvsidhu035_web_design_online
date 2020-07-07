@@ -34,6 +34,6 @@
 - [x] ur ulimate
 - [ ] ur good
 
-![img](img/1.JPEG)
+![img](E:\GIT\img\1.jpeg)
 
 ![img](1.JPEG)

@@ -35,3 +35,5 @@
 - [ ] ur good
 
 ![img](img/1.JPEG)
+
+![img](1.JPEG)
